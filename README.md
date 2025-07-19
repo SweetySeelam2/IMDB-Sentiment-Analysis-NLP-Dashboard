@@ -132,7 +132,7 @@ If IMDb or any review-centric platform adopts this model and dashboard:
 
 - 🚀 **Hugging Face App**: [bert-sentiment-imdb-app](https://huggingface.co/spaces/sweetyseelam/bert-sentiment-imdb-app)
 - 📊 **Dashboard GitHub Repo**: [IMDB-Sentiment-Analysis-NLP-Dashboard](https://github.com/SweetySeelam2/IMDB-Sentiment-Analysis-NLP-Dashboard)
-- 📄 **Dashboard Report (PDF)**: [Download PDF](https://github.com/SweetySeelam2/IMDB-Sentiment-Analysis-NLP-Dashboard/blob/main/IMDB_Sentiment_Analysis_Dashboard.pdf)
+- 📄 **Dashboard Report (PDF)**: [Download PDF](https://github.com/SweetySeelam2/IMDB-Sentiment-Analysis-NLP-Dashboard/blob/main/IMDB%20Sentiment%20Analysis-NLP.pdf)
 
 ---
 
