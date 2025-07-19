@@ -4,7 +4,7 @@
 Explore the professional Tableau dashboard that analyzes model predictions, confidence scores, and misclassification patterns using real IMDb review data.  
 🟣 [View Hugging Face App](https://huggingface.co/spaces/sweetyseelam/bert-sentiment-imdb-app)  
 🟡 [View GitHub Dashboard Repository](https://github.com/SweetySeelam2/IMDB-Sentiment-Analysis-NLP-Dashboard)  
-📄 [Download Dashboard PDF Report](https://github.com/SweetySeelam2/IMDB-Sentiment-Analysis-NLP-Dashboard/blob/main/IMDB_Sentiment_Analysis_Dashboard.pdf)
+📄 [Download Dashboard PDF Report](https://github.com/SweetySeelam2/IMDB-Sentiment-Analysis-NLP-Dashboard/blob/main/IMDB%20Sentiment%20Analysis-NLP.pdf)
 
 ---
 
